@@ -58,7 +58,7 @@ def main():
     st.write("[GitHub](link_to_your_github_profile)")
     st.write("[LinkedIn](link_to_your_linkedin_profile)")
     st.write("[Medium](link_to_your_medium_profile)")
-    # Add more social handles as needed
+    # Add more social handles as neededdd
 
 if __name__ == "__main__":
     main()
